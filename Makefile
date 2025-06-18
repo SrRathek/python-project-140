@@ -13,5 +13,12 @@ package-install:
 lint:
 	uv run ruff check brain_games
 
+lint-fix:
+	uv run ruff check . --fix
+
 brain-even:
 	uv run brain-even
+
+brain-calc:
+	uv run brain-calc
+

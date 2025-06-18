@@ -6,3 +6,6 @@
 
 ## Demostración del juego "¿Par o impar?"
 [![asciicast](https://asciinema.org/a/z9TZL8x5bKdFwy8BdAV6vhD6H.svg)](https://asciinema.org/a/z9TZL8x5bKdFwy8BdAV6vhD6H)
+
+## Demostración del juego "Calculadora"
+[![asciicast](https://asciinema.org/a/9renElr7wLAlQRjtmSFAvhGf8.svg)](https://asciinema.org/a/9renElr7wLAlQRjtmSFAvhGf8)
