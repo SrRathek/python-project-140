@@ -9,3 +9,6 @@
 
 ## Demostración del juego "Calculadora"
 [![asciicast](https://asciinema.org/a/9renElr7wLAlQRjtmSFAvhGf8.svg)](https://asciinema.org/a/9renElr7wLAlQRjtmSFAvhGf8)
+
+## Demostración del juego "Máximo Común Divisor"
+[![asciicast](https://asciinema.org/a/loCLQ5D5d4GR4UQRV2J0SQtLN.svg)](https://asciinema.org/a/loCLQ5D5d4GR4UQRV2J0SQtLN)
